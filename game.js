@@ -229,7 +229,7 @@ function animate()
             ball.vx = -6;
             ball.vy = 6;
         }
-
+ 
         ball.x = player2.left() - ball.radius;
     }
 
